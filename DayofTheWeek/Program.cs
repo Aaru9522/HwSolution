@@ -44,7 +44,7 @@ namespace DayofTheWeek
                     break;
 
                 case 7:
-                    Console.WriteLine("It is Saturdayday");
+                    Console.WriteLine("It is Saturday");
                     break;
                 default:
                     Console.WriteLine("Invalid Input");
